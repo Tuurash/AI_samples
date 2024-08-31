@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GithubOpenAI4o": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

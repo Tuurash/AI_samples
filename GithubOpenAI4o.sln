@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubOpenAI4o", "GithubOpenAI4o.csproj", "{99C5F019-8694-4A33-AFA3-AEB1E2E57C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C5F019-8694-4A33-AFA3-AEB1E2E57C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C5F019-8694-4A33-AFA3-AEB1E2E57C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C5F019-8694-4A33-AFA3-AEB1E2E57C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C5F019-8694-4A33-AFA3-AEB1E2E57C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453F9804-13F2-47B1-9B5D-52C8D200C481}
+	EndGlobalSection
+EndGlobal
